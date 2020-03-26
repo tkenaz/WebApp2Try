@@ -1,0 +1,13 @@
+
+Bsquid:S1989%"&Add a "try/catch" block for "forward".(óç®ûÿÿÿÿ
+˜squid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¤‹ú
+Bsquid:S1989%"&Add a "try/catch" block for "forward".(óç®ûÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èìÕëúÿÿÿÿ
+=squid:S1989,"&Add a "try/catch" block for "forward".(ôª¥‹
+gsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(úÂ›éúÿÿÿÿ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Lsquid:S1481")Remove this unused "user" local variable.(¾˜ îüÿÿÿÿ8“­’Ä.
+=squid:S1989,"&Add a "try/catch" block for "forward".(ôª¥‹
+Nsquid:S1135%"2Complete the task associated to this TODO comment.(óç®ûÿÿÿÿ
+`squid:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(ÀÜÜü
+[squid:S1854"8Remove this useless assignment to local variable "user".(¾˜ îüÿÿÿÿ8“­’Ä.

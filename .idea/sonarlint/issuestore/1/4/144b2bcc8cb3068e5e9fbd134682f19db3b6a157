@@ -1,0 +1,13 @@
+
+Ÿsquid:S11863"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷¤‹ú8ì™ü.
+Isquid:S1989#"&Add a "try/catch" block for "forward".(óç®ûÿÿÿÿ8–ó‡Â.
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(úÂ›éúÿÿÿÿ8™ß‡Â.
+Usquid:S1135#"2Complete the task associated to this TODO comment.(óç®ûÿÿÿÿ8ƒşœ.
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òé–Â.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èìÕëúÿÿÿÿ8µü½.
+Dsquid:S1989*"&Add a "try/catch" block for "forward".(ôª¥‹8ğ°¦Â.
+Isquid:S1989#"&Add a "try/catch" block for "forward".(óç®ûÿÿÿÿ8–ó‡Â.
+Dsquid:S1989*"&Add a "try/catch" block for "forward".(ôª¥‹8ğ°¦Â.
+[squid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ì™ü.
+Esquid:S1481"'Remove this unused "rd" local variable.(”ŠŸË8ÿ¡÷¼.
+gsquid:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(ÀÜÜü8µü½.

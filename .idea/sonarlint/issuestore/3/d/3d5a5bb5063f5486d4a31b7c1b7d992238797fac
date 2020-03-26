@@ -1,0 +1,36 @@
+
+tsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ÄŞåÕ8Ø×ë.
+Zsquid:S2589E"7Remove this expression which always evaluates to "true"(˜µá±şÿÿÿÿ8øôÆ˜.
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(—Ø“¹ÿÿÿÿÿ8´¯—™.
+Osquid:S1135"2Complete the task associated to this TODO comment.(‹ı 8Ø×ë.
+>squid:S2068U" Remove this hard-coded password.(åÔÉÊ8´ş‡‘.
+Fsquid:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8´ş‡‘.
+Zsquid:S2589j"7Remove this expression which always evaluates to "true"(˜µá±şÿÿÿÿ8’–Â˜.
+[
+squid:S106e"9Replace this use of System.out or System.err by a logger.(Å¿šİøÿÿÿÿ8Ç–¾˜.
+^squid:S2259F"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8øôÆ˜.
+Fsquid:S1148K"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8øôÆ˜.
+Tsquid:S26963"6Make the enclosing method "static" or remove this set.(åÔÉÊ8Ø×ë.
+hsquid:S1192x"JDefine a constant instead of duplicating this literal "asmith123" 3 times.(¨ÜÙ8´¯—™.
+Psquid:S1135"2Complete the task associated to this TODO comment.(Îçé«8Ø×ë.
+U
+squid:S106|"9Replace this use of System.out or System.err by a logger.(“Ú—"8¹¨ñ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ğÏ¹Üıÿÿÿÿ8Ø×ë.
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(¨ÜÙ8ù±–™.
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×‘¢é8Ø×ë.
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â€Ä˜.
+>squid:S20683" Remove this hard-coded password.(åÔÉÊ8Ø×ë.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¬êĞ¤øÿÿÿÿ8øôÆ˜.
+ˆsquid:S4165`"eRemove this useless assignment; "isValid" already holds the assigned value along all execution paths.(Ğ¼ó‰øÿÿÿÿ8¤ç°™.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘œ‘.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(Ü ¥ÿÿÿÿÿ8Ø×ë.
+Tsquid:S2696U"6Make the enclosing method "static" or remove this set.(åÔÉÊ8´ş‡‘.
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(äîûÿÿÿÿ8ïî“™.
+Psquid:S1135#"2Complete the task associated to this TODO comment.(ú²÷8Ø×ë.
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ø×ë.
+^squid:S2259k"@A "NullPointerException" could be thrown; "rs" is nullable here.(ÅÌ”Ù8’–Â˜.
