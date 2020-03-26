@@ -39,6 +39,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -216,7 +217,7 @@
       <workItem from="1584641081659" duration="6033000" />
       <workItem from="1584710622377" duration="20708000" />
       <workItem from="1585074421334" duration="776000" />
-      <workItem from="1585128011915" duration="9100000" />
+      <workItem from="1585128011915" duration="9448000" />
     </task>
     <servers />
   </component>
