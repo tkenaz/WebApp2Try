@@ -6,7 +6,60 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="521cec1e-9375-4145-b3b8-3e415d02f7a4" name="Default Changelist" comment="" />
+    <list default="true" id="521cec1e-9375-4145-b3b8-3e415d02f7a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/HikariCP_3_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_2_0_0_alpha1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/InAppPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/dataLayer/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/dataLayer/Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/dataLayer/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/dataLayer/entity/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/dataLayer/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/command/LoginCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/command/LogoutCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/filter/CommandAccessFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/listener/ContextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/META-INF/context.xml.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/admin/list_orders.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/error_page.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/settings.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/user/list_menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jspf/directive/page.jspf.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/welcome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/welcomeAdmin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XO/src/main/java/com/ponchko/xo/AIPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XO/src/main/java/com/ponchko/xo/Gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XO/src/main/java/com/ponchko/xo/GuiPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../XO/src/main/java/com/ponchko/xo/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/WebApp2Try.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/WebApp2Try.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/144b2bcc8cb3068e5e9fbd134682f19db3b6a157" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d5a5bb5063f5486d4a31b7c1b7d992238797fac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62acf9bec13af858a100895fa8370d078ff49eeb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f198ed450f32e45b10ec3c2b1406e609b4a96cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f198ed450f32e45b10ec3c2b1406e609b4a96cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf9c9e393f33a7d94a27fcd819f937e77c571be3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp2Try.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp2Try.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/WebApp2Try/WEB-INF/classes/webapp/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/WebApp2Try/WEB-INF/classes/webapp/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebApp2Try/dataLayer/DbUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/WebApp2Try/webapp/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataLayer/DBManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataLayer/DbUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/AppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/exceptions/AppException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/DBException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/exceptions/DBException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/exceptions/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/command/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/command/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/command/CommandContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/nure/vyshnyvetska/SummaryTask4/webapp/command/CommandContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/command/LoginSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/command/LoginCommand.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +85,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="jsf" />
         <option value="Jsp File" />
         <option value="Class" />
       </list>
@@ -49,43 +103,49 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ZMFVUiYGTeqD25nNPJL5kKXgKj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/entities" />
-      <recent name="$PROJECT_DIR$/src/db" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="webapp" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/web/command" />
       <recent name="$PROJECT_DIR$/web" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="webapp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/entities" />
+      <recent name="$PROJECT_DIR$/src/db" />
+    </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.331">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DbUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataLayer.DbUser" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.vyshnyvetska.SummaryTask4.dataLayer.DbUser" />
       <module name="WebApp2Try" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataLayer.*" />
+          <option name="PATTERN" value="ua.nure.vyshnyvetska.SummaryTask4.dataLayer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +153,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="WebApp2Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="entities.User" />
+      <option name="MAIN_CLASS_NAME" value="ua.nure.vyshnyvetska.SummaryTask4.dataLayer.entity.User" />
       <module name="WebApp2Try" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="entities.*" />
+          <option name="PATTERN" value="ua.nure.vyshnyvetska.SummaryTask4.dataLayer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,8 +248,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.User" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.DbUser" />
+        <item itemvalue="Application.User" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +273,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -217,98 +285,112 @@
       <workItem from="1584641081659" duration="6033000" />
       <workItem from="1584710622377" duration="20708000" />
       <workItem from="1585074421334" duration="776000" />
-      <workItem from="1585128011915" duration="9448000" />
+      <workItem from="1585128011915" duration="14859000" />
+      <workItem from="1585587814537" duration="20270000" />
+      <workItem from="1585822155881" duration="3263000" />
+      <workItem from="1585941042626" duration="8266000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="668" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584876222546">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
     <state x="668" y="131" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.935@0.23.1680.935" timestamp="1584876222546" />
-    <state x="674" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1584734522579">
+    <state x="465" y="184" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585247200676">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state x="674" y="181" key="#com.intellij.ide.util.MemberChooser/0.23.1680.935@0.23.1680.935" timestamp="1584734522579" />
+    <state x="465" y="184" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1680.935@0.23.1680.935" timestamp="1585247200676" />
+    <state x="674" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1585943639353">
+      <screen x="0" y="23" width="1680" height="935" />
+    </state>
+    <state x="674" y="181" key="#com.intellij.ide.util.MemberChooser/0.23.1680.935@0.23.1680.935" timestamp="1585943639353" />
     <state x="422" y="189" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1584709812099">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
     <state x="422" y="189" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.23.1680.935@0.23.1680.935" timestamp="1584709812099" />
+    <state x="965" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585940833855">
+      <screen x="0" y="23" width="1680" height="935" />
+    </state>
+    <state x="965" y="247" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.935@0.23.1680.935" timestamp="1585940833855" />
     <state x="595" y="213" key="DetectedRootsChooserDialog" timestamp="1584735165359">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
     <state x="595" y="213" key="DetectedRootsChooserDialog/0.23.1680.935@0.23.1680.935" timestamp="1584735165359" />
-    <state width="1605" height="299" key="GridCell.Tab.0.bottom" timestamp="1585072783012">
+    <state width="1338" height="241" key="GridCell.Tab.0.bottom" timestamp="1586099845281">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.0.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585072783012" />
-    <state width="1605" height="299" key="GridCell.Tab.0.center" timestamp="1585072783011">
+    <state width="1338" height="241" key="GridCell.Tab.0.bottom/0.23.1680.935@0.23.1680.935" timestamp="1586099845281" />
+    <state width="1338" height="241" key="GridCell.Tab.0.center" timestamp="1586099845280">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.0.center/0.23.1680.935@0.23.1680.935" timestamp="1585072783011" />
-    <state width="1605" height="299" key="GridCell.Tab.0.left" timestamp="1585072783011">
+    <state width="1338" height="241" key="GridCell.Tab.0.center/0.23.1680.935@0.23.1680.935" timestamp="1586099845280" />
+    <state width="1338" height="241" key="GridCell.Tab.0.left" timestamp="1586099845279">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.0.left/0.23.1680.935@0.23.1680.935" timestamp="1585072783011" />
-    <state width="1605" height="299" key="GridCell.Tab.0.right" timestamp="1585072783011">
+    <state width="1338" height="241" key="GridCell.Tab.0.left/0.23.1680.935@0.23.1680.935" timestamp="1586099845279" />
+    <state width="1338" height="241" key="GridCell.Tab.0.right" timestamp="1586099845280">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.0.right/0.23.1680.935@0.23.1680.935" timestamp="1585072783011" />
-    <state width="1605" height="299" key="GridCell.Tab.1.bottom" timestamp="1585072783012">
+    <state width="1338" height="241" key="GridCell.Tab.0.right/0.23.1680.935@0.23.1680.935" timestamp="1586099845280" />
+    <state width="1643" height="298" key="GridCell.Tab.1.bottom" timestamp="1585467168423">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.1.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585072783012" />
-    <state width="1605" height="299" key="GridCell.Tab.1.center" timestamp="1585072783012">
+    <state width="1643" height="298" key="GridCell.Tab.1.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585467168423" />
+    <state width="1643" height="298" key="GridCell.Tab.1.center" timestamp="1585467168423">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.1.center/0.23.1680.935@0.23.1680.935" timestamp="1585072783012" />
-    <state width="1605" height="299" key="GridCell.Tab.1.left" timestamp="1585072783012">
+    <state width="1643" height="298" key="GridCell.Tab.1.center/0.23.1680.935@0.23.1680.935" timestamp="1585467168423" />
+    <state width="1643" height="298" key="GridCell.Tab.1.left" timestamp="1585467168422">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.1.left/0.23.1680.935@0.23.1680.935" timestamp="1585072783012" />
-    <state width="1605" height="299" key="GridCell.Tab.1.right" timestamp="1585072783012">
+    <state width="1643" height="298" key="GridCell.Tab.1.left/0.23.1680.935@0.23.1680.935" timestamp="1585467168422" />
+    <state width="1643" height="298" key="GridCell.Tab.1.right" timestamp="1585467168423">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1605" height="299" key="GridCell.Tab.1.right/0.23.1680.935@0.23.1680.935" timestamp="1585072783012" />
-    <state width="1391" height="378" key="GridCell.Tab.2.bottom" timestamp="1585072783001">
+    <state width="1643" height="298" key="GridCell.Tab.1.right/0.23.1680.935@0.23.1680.935" timestamp="1585467168423" />
+    <state width="1425" height="377" key="GridCell.Tab.2.bottom" timestamp="1585467168182">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.2.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585072783001" />
-    <state width="1391" height="378" key="GridCell.Tab.2.center" timestamp="1585072783001">
+    <state width="1425" height="377" key="GridCell.Tab.2.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585467168182" />
+    <state width="1425" height="377" key="GridCell.Tab.2.center" timestamp="1585467168181">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.2.center/0.23.1680.935@0.23.1680.935" timestamp="1585072783001" />
-    <state width="1391" height="378" key="GridCell.Tab.2.left" timestamp="1585072783001">
+    <state width="1425" height="377" key="GridCell.Tab.2.center/0.23.1680.935@0.23.1680.935" timestamp="1585467168181" />
+    <state width="1425" height="377" key="GridCell.Tab.2.left" timestamp="1585467168180">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.2.left/0.23.1680.935@0.23.1680.935" timestamp="1585072783001" />
-    <state width="1391" height="378" key="GridCell.Tab.2.right" timestamp="1585072783001">
+    <state width="1425" height="377" key="GridCell.Tab.2.left/0.23.1680.935@0.23.1680.935" timestamp="1585467168180" />
+    <state width="1425" height="377" key="GridCell.Tab.2.right" timestamp="1585467168181">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.2.right/0.23.1680.935@0.23.1680.935" timestamp="1585072783001" />
-    <state width="1391" height="378" key="GridCell.Tab.3.bottom" timestamp="1584981506593">
+    <state width="1425" height="377" key="GridCell.Tab.2.right/0.23.1680.935@0.23.1680.935" timestamp="1585467168181" />
+    <state width="1425" height="377" key="GridCell.Tab.3.bottom" timestamp="1585323537636">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.3.bottom/0.23.1680.935@0.23.1680.935" timestamp="1584981506593" />
-    <state width="1391" height="378" key="GridCell.Tab.3.center" timestamp="1584981506592">
+    <state width="1425" height="377" key="GridCell.Tab.3.bottom/0.23.1680.935@0.23.1680.935" timestamp="1585323537636" />
+    <state width="1425" height="377" key="GridCell.Tab.3.center" timestamp="1585323537635">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.3.center/0.23.1680.935@0.23.1680.935" timestamp="1584981506592" />
-    <state width="1391" height="378" key="GridCell.Tab.3.left" timestamp="1584981506592">
+    <state width="1425" height="377" key="GridCell.Tab.3.center/0.23.1680.935@0.23.1680.935" timestamp="1585323537635" />
+    <state width="1425" height="377" key="GridCell.Tab.3.left" timestamp="1585323537634">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.3.left/0.23.1680.935@0.23.1680.935" timestamp="1584981506592" />
-    <state width="1391" height="378" key="GridCell.Tab.3.right" timestamp="1584981506593">
+    <state width="1425" height="377" key="GridCell.Tab.3.left/0.23.1680.935@0.23.1680.935" timestamp="1585323537634" />
+    <state width="1425" height="377" key="GridCell.Tab.3.right" timestamp="1585323537635">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state width="1391" height="378" key="GridCell.Tab.3.right/0.23.1680.935@0.23.1680.935" timestamp="1584981506593" />
-    <state x="321" y="72" key="SettingsEditor" timestamp="1585157259090">
+    <state width="1425" height="377" key="GridCell.Tab.3.right/0.23.1680.935@0.23.1680.935" timestamp="1585323537635" />
+    <state x="321" y="72" key="SettingsEditor" timestamp="1585940993789">
       <screen x="0" y="23" width="1680" height="935" />
     </state>
-    <state x="321" y="72" key="SettingsEditor/0.23.1680.935@0.23.1680.935" timestamp="1585157259090" />
+    <state x="321" y="72" key="SettingsEditor/0.23.1680.935@0.23.1680.935" timestamp="1585940993789" />
   </component>
   <component name="regexState">
     <option name="map">

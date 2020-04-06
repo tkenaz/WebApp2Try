@@ -1,0 +1,13 @@
+
+D
+java:S3010<"'Remove this assignment of "dataSource".(ËóØÎ8ÇöøÒ“.
+N
+java:S1068",Remove this unused "GET_ROLE" private field.(«¬³ªşÿÿÿÿ8ÇöøÒ“.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¡²«øÿÿÿÿ8ÇöøÒ“.
+]	java:S125"<This block of commented-out lines of code should be removed.(¼¾˜–ıÿÿÿÿ8ÇöøÒ“.
+U
+java:S1135•"2Complete the task associated to this TODO comment.(Öê·üÿÿÿÿ8ÇöøÒ“.
+O
+java:S1135;"2Complete the task associated to this TODO comment.(¿ˆ•Ä8ÇöøÒ“.
+J
+java:S1068"-Remove this unused "GET_CREDS" private field.(øû®ó8ÇöøÒ“.

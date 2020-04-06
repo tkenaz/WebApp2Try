@@ -6,7 +6,7 @@
 
     <!--<servlet>
         <servlet-name>login</servlet-name>
-        <servlet-class>webapp.Login</servlet-class>
+        <servlet-class>Login</servlet-class>
     </servlet>
 
     <servlet-mapping>

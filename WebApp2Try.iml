@@ -22,5 +22,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 9.0.331" level="application_server_libraries" />
     <orderEntry type="library" name="mysql-connector-java-8.0" level="project" />
     <orderEntry type="library" name="log4j-1.2.17" level="project" />
+    <orderEntry type="library" name="slf4j-api-2.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="HikariCP-3.4.2" level="project" />
   </component>
 </module>
